@@ -1,0 +1,2 @@
+# BuildingAI
+BuildingAI cource repo
