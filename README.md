@@ -1,5 +1,6 @@
-# Intraday scheduling of heat and power production using AI methods
+# Scheduling of combined heat and power production using AI methods
 
+Intraday scheduling of combined heat and power production using AI methods
 Final project for the Building AI course
 
 ## Summary
